@@ -3,7 +3,7 @@ const {r} = require("../database");
 const router = express.Router();
 
 router.get("/", async (req,res) => {
-    r.db("books").table("psychology").then((book) => {
+    r.db("test").table("psychology").then((book) => {
         res.statusCode = 200;
         res.send({
             message: "Data extraction successful",

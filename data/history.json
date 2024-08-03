@@ -1,0 +1,184 @@
+{
+  "data" : [
+    {
+      "id": "1",
+      "imageURL": "images/history/Atatürk.png",
+      "title": "Gazi Mustafa Kemal Atatürk",
+      "author": "Prof. Dr. İlber Ortaylı",
+      "publisher": "Kronik Kitap",
+      "description": " ",
+      "buyURL": "https://www.kitapyurdu.com/kitap/gazi-mustafa-kemal-ataturk/447892.html"
+    },
+    {
+      "id": "2",
+      "imageURL": "images/history/AtatürkünHatıraları.png",
+      "title": "Atatürk'ün Hatıraları",
+      "author": "Falih Rıfkı Atay",
+      "publisher": "Pozitif Yayınları",
+      "description": " ",
+      "buyURL": "https://www.kitapyurdu.com/kitap/ataturkun-hatiralari-/524510.html"
+    },
+    {
+      "id": "3",
+      "imageURL": "images/history/BüyükDevriminPortreleri.png",
+      "title": "Büyük Devrimin Portreleri",
+      "author": "Emrah Safa Gürkan",
+      "publisher": "Mundi",
+      "description": "Mustafa Kemal, kafasındaki inkılapları neden en yakınındakilerden bile gizlemek zorunda kaldı? Enver Paşa ile arasındaki rekabet Kurtuluş Savaşı’na nasıl yansıdı? Olaylar farklı gelişseydi, Milli Mücadele’nin lideri başkası olabilir miydi? Düşmana karşı direnişi beraber başlattığı silah arkadaşları neden birkaç sene içinde Gazi’ye muhalif oldu?",
+      "buyURL": "https://www.kitapyurdu.com/kitap/cumhuriyetin-100-ismi-buyuk-devrimin-portreleri/647779.html"
+    },
+    {
+      "id": "4",
+      "imageURL": "images/history/CumhuriyetinDoğuşu.png",
+      "title": "Cumhuriyetin Doğuşu",
+      "author": "Prof. Dr. İlber Ortaylı",
+      "publisher": "Kronik Kitap",
+      "description": "Cumhuriyet’in Doğuşu, Gazi Mustafa Kemal Paşa’nın validesi Zübeyde Hanım’ın yeterince ilgilenilmemiş hayatıyla açılıyor. Atatürk’ün doğduğu ve askerlik mesleğine girdiği dönem olan II. Abdülhamid dönemi, Balkan Savaşları, Birinci Dünya Savaşı’na girişimizden evvelki akil ses İsmet Paşa, fedakâr askerlerin savaşı Çanakkale, büyük bir direnişi örgütleyen Sultanahmet Mitingleri ile devam ediyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/cumhuriyetin-dogusu-kurtulus-ve-kurulus-yillari/662270.html"
+    },
+    {
+      "id": "5",
+      "imageURL": "images/history/FatihSultanMehmetHan.png",
+      "title": "Fatih Sultan Mehemmed Han",
+      "author": "Prof. Dr. Halil İnalcık",
+      "publisher": "Türkiye İş Bankası Kültür Yayınları",
+      "description": "Fâtih Sultan Mehmed üzerine yaptığı çalışmalarını 1950’lerde yayımlamaya başlayan Halil İnalcık’ın yaklaşık altmış yıllık birikiminin yer aldığı bu kitap, Fâtih ve devri hakkında monografik bir eser. Fâtih Sultan Mehemmed Han, İnalcık’ın daha önce muhtelif dillerde yayımlanmış makalelerinin yanı sıra yeni yazılarını da içeriyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/fatih-sultan-mehemmed-han-ciltli-iki-karanin-sultani-iki-denizin-hakani-kayseri-rum-/523370.html"
+    },
+    {
+      "id": "6",
+      "imageURL": "images/history/GelDünyayıKeşfedelim.png",
+      "title": "Gel Dünyayı Keşfedelim",
+      "author": "Prof. Dr. İlber Ortaylı",
+      "publisher": "Kronik Kitap",
+      "description": "Bir ülkeyi bütünüyle gezmenin, bir şehri en kendine mahsus özellikleriyle tanımanın, sokaklarda kaybolmanın, esnafla sohbete dalmanın zevki giderek hayattan çekiliyor. Bunların ardında iktisadi sorunlar ve teknoloji bağımlılıkları olduğuna şüphe yok. Diğer taraftan insanlar bugün eskisi gibi haritalardan ve şehir monografilerinden de beslenmiyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/gel-dunyayi-kesfedelim-gezgin-bir-tarihcinin-seyahat-defteri/683586.html"
+    },
+    {
+      "id": "7",
+      "imageURL": "images/history/Hain.png",
+      "title": "Hain",
+      "author": "Dr. Selim Erdoğan",
+      "publisher": "Kronik Kitap",
+      "description": "Yıl: 1919. Tüm dünyanın her fırsatta gözünü diktiği, Türk milletinin gözbebeği olan İstanbul işgal atındadır. Evlerde tedirginlik, sokaklarda korku, insanlarda umutsuzluk hakimdir. Bir Türk zabiti olan Ahmet Muhtar, tıpkı mensubu olduğu millet gibi Balkan ve Cihan Harbi’nin tüm yaralarını, yorgunluğunu üzerinde taşımaktadır. İtilaf Devletleri’nin her geçen gün kuşattığı İstanbul’da inançları sarsılmış biçimde ayakta kalmaya çalışmaktadır.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/hain/662002.html"
+    },
+    {
+      "id": "8",
+      "imageURL": "images/history/InkılabınAyakSesleri.png",
+      "title": "İnkılabın Ayak Sesleri",
+      "author": "Emrah Safa Gürkan",
+      "publisher": "Mundi",
+      "description": "Anadolu’ya ilk çıktığı günden başlayarak, Mustafa Kemal’in hangi engellerle karşılaştığını hiç düşündünüz mü? Erzurum Kongresi’ndeki delegelerin ona muhalefet ettiğini, Sivas Kongresi’ne yeteri kadar insanın gelmediğini biliyor muydunuz? İstanbul’da son Osmanlı meclisi toplanırken Ankara’da yapayalnız beklemek zorunda kalan bir aksiyon adamının içinde kopan fırtınaları tahmin edebilir misiniz?",
+      "buyURL": "https://www.kitapyurdu.com/kitap/cumhuriyetin-100-gunu-inkilabin-ayak-sesleri/647780.html"
+    },
+    {
+      "id": "9",
+      "imageURL": "images/history/KısaOsmanlıTarihi.png",
+      "title": "Kısa Osmanlı Tarihi",
+      "author": "Prof. Dr. Halil İnalcık",
+      "publisher": "Kronik Kitap",
+      "description": "Hayatını Osmanlı tarihi üzerine araştırmalara adamış, kitaplar ve makaleler yazmış, Türkiye’de ve dünyada konferanslar vermiş Halil İnalcık’ın ders notları; pek çok yönden güncelliğini korumakta ve tarih severlere yeni bakış açıları kazandırmakta, yeni ufuklar açmaktadır.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/kisa-osmanli-tarihi/623106.html"
+    },
+    {
+      "id": "10",
+      "imageURL": "images/history/MilliMücadeleTarihi.png",
+      "title": "Milli Mücadele Tarihi",
+      "author": "Prof. Dr. Halil İnalcık",
+      "publisher": "Kronik Kitap",
+      "description": "Tarih alanında dünyanın tartışmasız en büyük isimlerinden biri olan Halil İnalcık’ın kaleminden Millî Mücadele Tarihi. İnkılâp tarihini bir bütün olarak kavrayabilmek için 1908 yılındaki II. Meşrutiyet’in ilanından başlanması gerektiğini söyleyen İnalcık, ilk olarak 1908-1918 arasındaki belli başlı gelişmeleri kuşbakışı bir perspektifle ele alıyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/milli-mucadele-tarihi/629304.html"
+    },
+    {
+      "id": "11",
+      "imageURL": "images/history/Nutuk.png",
+      "title": "Nutuk",
+      "author": "Mustafa Kemal Atatürk",
+      "publisher": "Türkiye İş Bankası Kültür Yayınları",
+      "description": " ",
+      "buyURL": "https://www.kitapyurdu.com/kitap/nutukgencler-icin-fotograflarla/144672.html"
+    },
+    {
+      "id": "12",
+      "imageURL": "images/history/OsmanlıTarihindeEfsanelerveGerçekler.png",
+      "title": "Osmanlı Tarihinde Efsaneler ve Gerçekler",
+      "author": "Prof. Dr. Halil İnalcık",
+      "publisher": "Kronik Kitap",
+      "description": "Osmanlı tarihinin kaynaklarına inildiğinde birçok abartılmış olay ve efsanevî şahsiyet görmek mümkün. Bu durumda okurlar şu soruyu sormakta çok haklı: “Kaynakları bile böyleyse, biz kendi tarihimizi nasıl öğreneceğiz?” İşte bu soruya cevap verebilmek için Osmanlı tarihçiliği konusunda tüm dünyanın parmakla gösterdiği Halil İnalcık, özel olarak araştırdığı 18 konuya özel bir dosya hazırlar ve bu dosyaya şu ismi koyar: Osmanlı Tarihinde Efsaneler ve Gerçekler.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/osmanli-tarihinde-efsaneler-ve-gercekler/432787.html"
+    },
+    {
+      "id": "13",
+      "imageURL": "images/history/OsmanlıyıKeşfetmek.png",
+      "title": "Osmanlıyı Yeniden Keşfetmek",
+      "author": "Prof. Dr. Halil İnalcık",
+      "publisher": "Kronik Kitap",
+      "description": "Osmanlı'yı dünya tarihinde bu kadar önemli bir imparatorluk hâline getiren neydi? İstanbul Osmanlılar ve Avrupalılar için ne ifade ediyordu? Aile, Osmanlı toplumu için neden bu kadar önemli bir kurumdu? Geleceğin idarî ve askerî elitlerinin yanı sıra pek çok sanatçının yetiştiği Enderun saray okulu nasıl bir yerdi? Osmanlı saraylarını özel kılan neydi?",
+      "buyURL": "https://www.kitapyurdu.com/kitap/osmanliyi-yeniden-kesfetmek-/636864.html"
+    },
+    {
+      "id": "14",
+      "imageURL": "images/history/SonİmparatorlukOsmanlı.png",
+      "title": "Son İmparatorluk Osmanlı",
+      "author": "Prof. Dr. İlber Ortaylı",
+      "publisher": "Kronik Kitap",
+      "description": " ",
+      "buyURL": "https://www.kitapyurdu.com/kitap/son-imparatorluk-osmanli-osmanliyi-yeniden-kesfetmek-2/677579.html"
+    },
+    {
+      "id": "15",
+      "imageURL": "images/history/TürklerinTarihi.png",
+      "title": "Türklerin Tarihi",
+      "author": "Prof. Dr. İlber Ortaylı",
+      "publisher": "Kronik Kitap",
+      "description": "Türklerin Tarihi, göçebe bir kavimken Ortadoğu’nun güçlü uygarlıklarından birini tesis eden Türklerin günümüzde de çok konuşulan menşei tartışmalarıyla başlıyor. Akabinde Orta Asya’dan Anadolu’ya göç edip bölgeyi Türkleştirmeleri ve orada inşa ettikleri kültürün esasları…",
+      "buyURL": "https://www.kitapyurdu.com/kitap/turklerin-tarihi-orta-asyanin-bozkirlarindan-avrupanin-kapilarina/625227.html"
+    },
+    {
+      "id": "16",
+      "imageURL": "images/history/TürklerinTarihi-2.png",
+      "title": "Türklerin Tarihi 2",
+      "author": "Prof. Dr. İlber Ortaylı",
+      "publisher": "Kronik Kitap",
+      "description": "Türklerin Tarihi kitabında Marmara’da küçük bir beylik olarak doğan, gelişen ve kuruluşunun üzerinden 150 yıl geçmeden Balkanlar’da ve Ege’de hâkimiyet tesis eden, Akdeniz dünyasının son muhteşem imparatorluğu olan Türk İmparatorluğu’nun üç kıtaya yayılmasına şahitlik edeceksiniz.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/turklerin-tarihi-2-anadolunun-bozkirlarindan-avrupanin-iclerine/625425.html"
+    },
+    {
+      "id": "17",
+      "imageURL": "images/history/UluslarınDüşüşü.png",
+      "title": "Ulusların Düşüşü",
+      "author": "Daron Acemoğlu",
+      "publisher": "Doğan Kitap",
+      "description": "Güç, zenginlik ve yoksulluğun kökenleri “Tarih, kaderden ibaret değildir!” Ulusların Düşüşü, tarih boyunca ulusların, özellikle de birbirine benzeyen ulusların ekonomik ve politik gelişmeleri arasında neden büyük farklılıklar olduğuna dair bir tartışma yürütüyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/uluslarin-dususu/325768.html"
+    },
+    {
+      "id": "18",
+      "imageURL": "images/history/Vahdettin.png",
+      "title": "Vahdettin",
+      "author": "Falih Rıfkı Atay",
+      "publisher": "Pozitif Yayınları",
+      "description": " ",
+      "buyURL": "https://www.kitapyurdu.com/kitap/ataturkun-bana-anlattiklari-mustafa-kemalin-agzindan-vahdettin/74142.html"
+    },
+    {
+      "id": "19",
+      "imageURL": "images/history/YakınTarihinGerçekleri.png",
+      "title": "Yakın Tarihin Gerçekleri",
+      "author": "Prof. Dr. İlber Ortaylı",
+      "publisher": "Kronik Kitap",
+      "description": "Osmanlı’nın çöküşünün nedenlerini, milliyetçilik akımlarını, Trablusgarp Harbi’ni, Balkan Harbi’ni, Birinci Dünya Harbi’ni, küllerinden doğan bir cumhuriyet kuran Mustafa Kemal Atatürk ile arkadaşlarını, Türk siyasal hayatında demokrasiye geçiş çabalarını, Demokrat Parti’nin iktidarda olduğu yılları ve 1965 yılına doğru giden gelişmeleri, Ortadoğu'nun tarihini, Krallıkların yükselişini ve çöküşünü, baskıcı liderler ve oğullarını Türk tarihçiliğinin kılavuz ismi İlber Ortaylı’nın derin analizleriyle soluk soluğa okumak için benzersiz bir davet…",
+      "buyURL": "https://www.kitapyurdu.com/kitap/yakin-tarihin-gercekleri/576542.html"
+    },
+    {
+      "id": "20",
+      "imageURL": "images/history/Zeytindağı.png",
+      "title": "Zeytindağı",
+      "author": "Falih Rıfkı Atay",
+      "publisher": "Pozitif Yayınları",
+      "description": "Zeytindağı, insanın kanını donduran tarihî bir süreci, “bir imparatorluğun çöküşünü” zamanına göre duru bir Türkçe ile karşımıza getiriyor. Kitapta Mehmetçik’in Yemen’de, Aden’de, Kanal’da, Gazze’de, Arap çöllerinde nasıl kırıldığını, yenilgiden sonra bir vagon dolusu “mecidiye”yi bile nasıl bıraktığımızı hayretler içerisinde okuyacaksınız.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/zeytindagi-gunumuz-turkcesiyle/668164.html"
+    }
+  ]    
+}

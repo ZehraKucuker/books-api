@@ -1,0 +1,184 @@
+{
+  "data" :[
+    {
+      "id": "1",
+      "imageURL": "images/psychology/BedenKayıtTutar.png",
+      "title": "Beden Kayıt Tutar",
+      "author": "Bessel van der Kolk",
+      "publisher": "Nobel Yaşam",
+      "description": "Ne yazık ki şimdiki psikiyatri anlayışı, yakınmalarınızı anlatmanız ve hekimin de bu yakınmaları düzeltecek bir ilaç önermesi üzerine kurulu. Ancak “Hiç bir ilaç, kötü geçmiş bir çocukluğu düzeltmiyor”.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/beden-kayit-tutar/451128.html"
+    },
+    {
+      "id": "2",
+      "imageURL": "images/psychology/BilinçAltınınGücü.png",
+      "title": "Bilinç Altının Gücü",
+      "author": "Joseph Murphy",
+      "publisher": "Diyojen Yayıncılık",
+      "description": "Zihniniz, anbean yaşadıklarınızı işleyip kendinizi gerçekleştirme yolculuğunuzda gideceğiniz yönü belirlemenizi sağlıyor. Hatırladığınız tüm anılar atacağınız adımlara yön verirken, hatırlayamadıklarınız veya unuttuklarınız da bu konuda göz ardı edilemeyecek kadar büyük bir pay kapıyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/bilincaltinin-gucu-zihinsel-ve-bedensel-iyilesme/579761.html"
+    },
+    {
+      "id": "3",
+      "imageURL": "images/psychology/CalınanDikkat.png",
+      "title": "Çalınan Dikkat",
+      "author": "Johann Hari",
+      "publisher": "Metis Yayınları",
+      "description": "Gazeteci-yazar Johann Hari, son yıllarda bir şeylere odaklanmakta ne kadar zorlandığını fark ettiğinde suçu önce kendisinde aramış. Ama sonra aslında çoğu insanın aynı sorundan muzdarip olduğunu görmüş. Böylece meseleyi araştırmaya, uzmanlarla görüşmeye başladığında çok daha derin ve kapsamlı nedenlerin söz konusu olduğunu keşfetmiş.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/calinan-dikkat/631597.html"
+    },
+    {
+      "id": "4",
+      "imageURL": "images/psychology/Cüret.png",
+      "title": "Cüret",
+      "author": "Esra Ezmeci",
+      "publisher": "Destek Yayınları",
+      "description": "Tüm içsel savaşların tek sebebi kendinizi yeteri kadar tanımıyor oluşunuzdur. Kendinizi tanımaksa neye cüret ettiğinizle alakalıdır, kendinize neyi değer gördüğünüzle, neyle beslenmek ve neyi büyütmek istediğinizle ilgilidir, bir o kadar neleri söküp atacağınızla...",
+      "buyURL": "https://www.kitapyurdu.com/kitap/curet/669866.html"
+    },
+    {
+      "id": "5",
+      "imageURL": "images/psychology/DramsızDisiplin.png",
+      "title": "Dramsız Disiplin",
+      "author": "Daniel J. Siegel",
+      "publisher": "Pegasus Yayıncılık",
+      "description": "Çocuklarınızdan biri kahvaltı tabağını duvara fırlattığında, bir diğeri küçük kardeşini tehdit ettiğinde ya da bir ay içinde üçüncü kez disipline verildiğinde ne yapıyorsunuz? Soğukkanlılığınızı koruyup ona bilinçli bir şekilde yaklaşabiliyor musunuz, yoksa saçınızı başınızı yolacak kadar küplere mi biniyorsunuz?",
+      "buyURL": "https://www.kitapyurdu.com/kitap/dramsiz-disiplin/452504.html"
+    },
+    {
+      "id": "6",
+      "imageURL": "images/psychology/Erteleme.png",
+      "title": "Erteleme",
+      "author": "Nihan Kaya",
+      "publisher": "Eksik Parça Yayınları",
+      "description": "Bir işi yapmak iki saat sürüyor, yapmamak saatler, günler, haftalar. Bu sürede bir başka işi yapıyor da değiliz çoğu zaman. Aktif olarak yapmamakla meşgulüz. Bu kitap, ertelemenin arkasındaki psikolojimizi anlatıyor. Çünkü ertelemenin nedeni, zannedildiği gibi tembellik değil.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/erteleme-nedenleri-ve-cozumleri/657359.html"
+    },
+    {
+      "id": "7",
+      "imageURL": "images/psychology/EvlenmedenOnce.png",
+      "title": "Evlenmeden Önce",
+      "author": "Doğan Cüceloğlu",
+      "publisher": "Kronik Kitap",
+      "description": "Eşler, evlilik öyküsünün mahrem tanıklarıdır. Evliliğinizde hayatınızın en önemli, en mahrem tanığıyla birlikte olduğunuzun farkında mısınız? Bu tanıklığın derinlerine inen gücünün farkında olmak olgunluk ister. Olgun eşler, birlikte yaşamak için değil, birbirlerini yaşamak için evlendiklerini bilirler.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/evlenmeden-once/602691.html"
+    },
+    {
+      "id": "8",
+      "imageURL": "images/psychology/GerçekOzgürlük.png",
+      "title": "Gerçek Özgürlük",
+      "author": "Doğan Cüceloğlu",
+      "publisher": "Kronik Kitap",
+      "description": "Bu kitap, gençlik yıllarımı temsil eden üniversite öğrencisi Timur ile yaşlılık yıllarımı temsil eden emekli psikoloji profesörü Yakup Bey arasında geçen sohbetlerden oluşuyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/gercek-ozgurluk/602690.html"
+    },
+    {
+      "id": "9",
+      "imageURL": "images/psychology/HekatonlaSonTango.png",
+      "title": "Hekaton'la Son Tango",
+      "author": "Dr. Mustafa Merter",
+      "publisher": "Destek Yayınları",
+      "description": "Hekatonkheires (Hekaton), Yunan mitolojisindeki titanlardan Gaia ile Uranüs’ün elli başlı, yüz kollu oğulları olan Kottos, Briareus ve Gyes’in bir temsilidir. Uranüs, Hekatonkheires’ten hem iğrenir hem de iktidarını ona kaptırmaktan korkar. Hâlbuki bu figür, çok başlı ve stabil olmayan yapısıyla hem katildir hem de maktuldür.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/hekatonla-son-tango/667450.html"
+    },
+    {
+      "id": "10",
+      "imageURL": "images/psychology/InsanınAnlamArayışı.png",
+      "title": "İnsanın Anlam Arayışı",
+      "author": "Viktor Emil Frankl",
+      "publisher": "Okuyan Us Yayın",
+      "description": "20. yüzyılın önde gelen psikiyatrlarından Viktor Frankl, otuzun üzerinde yabancı dile çevrilen ve bütün dünyada 12 milyondan fazla satan İnsanın Anlam Arayışı’nda, kurucusu olduğu logoterapinin ilkelerini, İkinci Dünya Savaşı sırasında bir toplama kampındaki deneyimleri eşliğinde anlatmaktadır.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/insanin-anlam-arayisi/131878.html"
+    },
+    {
+      "id": "11",
+      "imageURL": "images/psychology/InsanInsana.png",
+      "title": "İnsan İnsana",
+      "author": "Doğan Cüceloğlu",
+      "publisher": "Kronik Kitap",
+      "description": "nsan, ilişkileri içinde sürekli olarak “yeniden tanımlanan” bir varlıktır. İnsan ilişkilerinin temelini ise iletişim süreçleri oluşturur. İki insan birbirinin farkına vardığı anda iletişim başlar. Aynı sosyal ortam içinde yer alan kişilerin söyledikleri sözler ve hareketleri kadar, hareketsizlikleri, susmaları, beden duruşları ve yüz ifadeleri, hepsi anlamlı birer mesaj oluşturur.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/insan-insana/600411.html"
+    },
+    {
+      "id": "12",
+      "imageURL": "images/psychology/InsanOlmak.png",
+      "title": "İnsan Olmak",
+      "author": "Engin Geçtan",
+      "publisher": "Metis Yayınları",
+      "description": "Bu kitabında Engin Geçtan insan olmanın ikilemini şöyle anlatır: 'Çağdaş toplumlar kendine özgü bir olguyu da birlikte getirmiştir. İnsan eskisinden çok daha fazla sayıda insanla, çok daha kısa süreli, daha yüzeysel ilişkiler kurma eğilimindedir. Bu, soğuk bir günde karşılaşan bir grup kirpinin öyküsüne benzer. Kirpiler ısınabilmek için birbirlerine sokulurlar, ama dikenleri birbirine batar.'",
+      "buyURL": "https://www.kitapyurdu.com/kitap/insan-olmak/50667.html"
+    },
+    {
+      "id": "13",
+      "imageURL": "images/psychology/IyiAileYoktur.png",
+      "title": "İyi Aile Yoktur",
+      "author": "Nihan Kaya",
+      "publisher": "İthaki Yayınları",
+      "description": "İyi aile yoktur. Ya da paradoks şu ki iyi aile, 'İyi aile yoktur' düsturuyla hareket edebilen ailedir. İnsanlar çocuk sahibi olduğunda farkında olmadan kendi çocukluğuna dair hisleri yaşar. Çocuğumuzla ilişkimiz, anne-babamızla ilişkimizin devamıdır.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/iyi-aile-yoktur/472745.html"
+    },
+    {
+      "id": "14",
+      "imageURL": "images/psychology/IyiHissetmek.png",
+      "title": "İyi Hissetmek",
+      "author": "Dr. David Burns",
+      "publisher": "Psikonet Yayınları",
+      "description": "İşte size iyi bir haber; kendinizi kaygı, suçluluk, kötümserlik, erteleme, düşük benlik saygısı ve depresyonun diğer 'dipsiz kuyu' lardan ilaçsız kurtarabilirsiniz! İyi Hissetmek'te, psikiyatrisst David Burns duygularınızı harekete geçirecek ve hayata daha olumlu bakmanızı sağlayacak, bilimsel olarak test edilmiş teknikler sunuluyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/iyi-hissetmek/79958.html"
+    },
+    {
+      "id": "15",
+      "imageURL": "images/psychology/KaybolanBağlar.png",
+      "title": "Kaybolan Bağlar",
+      "author": "Johann Hari",
+      "publisher": "Metis Yayınları",
+      "description": "Kaybolan Bağlar, gazeteci yazar Johann Hari’nin kendisinin de uzun yıllar mücadele ettiği depresyonun altında yatan nedenleri ve olası çözümlerini bulmak üzere çıktığı yolculuğun hikâyesini anlatıyor. Şahsi olduğu kadar toplumsal da olan, deneyimler kadar bilimsel olgu ve araştırmalara da dayanan bu hikâye, mutsuzluğumuzu kanıksamak ve ilaçlar yoluyla bastırmaya çalışmak yerine daha kalıcı, daha sağaltıcı çözümlere yönelebileceğimizi gösteriyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/kaybolan-baglar-depresyonun-gercek-nedenleri-ve-beklenmedik-cozumler/503718.html"
+    },
+    {
+      "id": "16",
+      "imageURL": "images/psychology/KöpekGibiBüyütülmüşCocuk.png",
+      "title": "Köpek Gibi Büyütülmüş Çocuk",
+      "author": "Bruce D. Perry",
+      "publisher": "Koridor Yayıncılık",
+      "description": "Dr. Bruce Perry, olağandışı durumlara maruz kalmış çocuklara yardım ederek onları hayata yeniden kazandıran dünyaca ünlü bir çocuk psikiyatristidir. Köpek Gibi Büyütülmüş Çocuk’ta, karşılaştığı travma vakalarını bilimsel bir gözle irdeleyerek ve bunları herkesin kolaylıkla anlayabileceği hikayelere dökerek, aşırı strese maruz kalan beyinde tam olarak ne olduğunu açıklıyor ve bu beynin akıl almaz iyileşme kapasitesini ortaya koyuyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/kopek-gibi-buyutulmus-cocuk/440957.html"
+    },
+    {
+      "id": "17",
+      "imageURL": "images/psychology/OfkeDansı.png",
+      "title": "Öfke Dansı",
+      "author": "Harriet Lerner",
+      "publisher": "Varlık Yayınları",
+      "description": "Öfkenin nedenleri ve modelleri üzerinde duran bu kitap, önemli ilişkilerde anlamlı ve uzun vadeli değişimler gerçekleştirmeyi sağlayacak özel stratejiler sunuyor. Kavga ve suçlamayla ya da sessizlik ve duygusal uzaklaşmayla dışarı vurulan Öfkenin, mevcut ilişki dinamiklerini neden ve nasıl koruduğunu kanıtlıyor ve öfkeyi yapıcı bir hale dönüştürmenin yollarını gösteriyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/ofke-dansi/1157.html"
+    },
+    {
+      "id": "18",
+      "imageURL": "images/psychology/ParanınPsikolojisi.png",
+      "title": "Paranın Psikolojisi",
+      "author": "Morgan Housel",
+      "publisher": "Scala Yayıncılık",
+      "description": " ",
+      "buyURL": "https://www.kitapyurdu.com/kitap/paranin-psikolojisi/598866.html"
+    },
+    {
+      "id": "19",
+      "imageURL": "images/psychology/PsikolojikSağlamlık.png",
+      "title": "Psikolojik Sağlamlık",
+      "author": "Ayşe Bilge Selçuk",
+      "publisher": "Kronik Kitap",
+      "description": "Dünyada değişimin her zamankinden hızlı olduğu bu dönemde stres ve kaygı ile nasıl baş edebiliriz? Zorlayıcı bir olay yaşadığımızda aldığımız yarayı iyileştirmeyi, tekrar yaralanma ihtimaline rağmen yola devam etmeyi nasıl başarabiliriz? Taşıdığı tüm belirsizlik ve hayal kırıklıklarına rağmen yaşamın içindeki yerimizi almamızı sağlayan en önemli beceri; Psikolojik Sağlamlık.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/psikolojik-saglamlik/652398.html"
+    },
+    {
+      "id": "20",
+      "imageURL": "images/psychology/HayatınHakkınıVermek.png",
+      "title": "Hayatın Hakkını Vermek",
+      "author": "Prof. Dr. Acar Baltaş",
+      "publisher": "Doğan Kitap",
+      "description": "Bu kitap, okura eşlik ederek hayatını değerlendirme fırsatını ona vermeyi amaçlıyor. Acar Baltaş, bilimsel araştırmalardan yararlanarak genelgeçer kabulleri sorgularken uzun yaşam hakkındaki doğruları ve bireyi mutluluğa götüren ilkeleri geniş bir perspektifle ele alıyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/hayatin-hakkini-vermek-saglikli-uzun-ve-mutlu-yasamak/564106.html"
+    }
+  ]    
+}

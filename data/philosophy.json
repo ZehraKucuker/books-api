@@ -1,0 +1,184 @@
+{
+  "data" :[
+      {
+          "id": "1",
+          "imageURL": "images/philosophy/InsanınAnlamArayışı.png",
+          "title": "İnsanın Anlam Arayışı",
+          "author": "Viktor Emil Frankl",
+          "publisher": "Okuyan Us Yayın",
+          "description": "20. yüzyılın önde gelen psikiyatrlarından Viktor Frankl, otuzun üzerinde yabancı dile çevrilen ve bütün dünyada 12 milyondan fazla satan İnsanın Anlam Arayışı’nda, kurucusu olduğu logoterapinin ilkelerini, İkinci Dünya Savaşı sırasında bir toplama kampındaki deneyimleri eşliğinde anlatmaktadır.",
+          "buyURL": "https://www.kitapyurdu.com/kitap/insanin-anlam-arayisi/131878.html"
+        },
+        {
+          "id": "2",
+          "imageURL": "images/philosophy/DervişinTeselliKoleksiyonu.png",
+          "title": "Dervişin Teselli Koleksiyonu",
+          "author": "Mecit Ömür Öztürk",
+          "publisher": "Hayy Kitap",
+          "description": "Kederli günlerden geçen derviş, rüya âleminde bir adaya uğrar. Gördüğü şey mucizevidir. Peygamberler, veliler, âlimler ve filozoflar bir halka şeklinde oturmakta ve anlaşıldığı kadarıyla birini beklemektedirler. Derviş de onlarla birlikte beklemeye durur ancak asıl misafirin kendisi olduğunu anlaması uzun sürmez.",
+          "buyURL": "https://www.kitapyurdu.com/kitap/dervisin-teselli-koleksiyonu-dogudan-batidan-99-teselli-/421503.html"
+        },
+        {
+          "id": "3",
+          "imageURL": "images/philosophy/DervişinTeselliKoleksiyonu2.png",
+          "title": "Dervişin Teselli Koleksiyonu 2",
+          "author": "Mecit Ömür Öztürk",
+          "publisher": "Hayy Kitap",
+          "description": "Kendi kendine, harici bir etkiye muhtaç olmadan da mutlu olabilen… Hadiselerin olumlu taraflarını görüp onları hayra yorabilen… Başka bir meşguliyete veya insana mecbur kalmaksızın zihnini huzurlu ve dingin hâle getirebilen… Kendi mutluluğunu her an, gereken her yerde yeniden üretebilen biri olabilmek, esasında her insan için mümkündür.",
+          "buyURL": "https://www.kitapyurdu.com/kitap/dervisin-teselli-koleksiyonu-2/621528.html"
+        },
+        {
+          "id": "4",
+          "imageURL": "images/philosophy/DervişinTeselliKoleksiyonu3.png",
+          "title": "Dervişin Teselli Koleksiyonu 3",
+          "author": "Mecit Ömür Öztürk",
+          "publisher": "Hayy Kitap",
+          "description": "İnsan, yaradılışı gereği, musibetler karşısında zayıf ve âcizdir. Basit bir kederle bile baş dönmesi yaşar. Küçük bir gam karşısında sersemleşir. Bir mikroba mağlup olan bedeni gibi ruhu da basit bir mesele karşısında sarsıntılar geçirir. Yaşam gidişatındaki ufak bir aksaklıktan ümitsizliğe düşer.",
+          "buyURL": "https://www.kitapyurdu.com/kitap/dervisin-teselli-koleksiyonu-3-kadim-terapi/659121.html"
+        },
+        {
+          "id": "5",
+          "imageURL": "images/philosophy/DirilişNeslininAmentüsü.png",
+          "title": "Diriliş Neslinin Amentüsü",
+          "author": "Sezai Karakoç",
+          "publisher": "Diriliş Yayınları",
+          "description": " ",
+          "buyURL": "https://www.kitapyurdu.com/kitap/dirilis-neslinin-amentusu/6522.html"
+        },
+        {
+          "id": "6",
+          "imageURL": "images/philosophy/Sofie'ninDünyası.png",
+          "title": "Sofie'nin Dünyası",
+          "author": "Jostein Gaarder",
+          "publisher": "Pan Yayıncılık",
+          "description": "15. yaşgününü kutlamaya hazırlanan Sofi, bir gün posta kutusunda 'Kimsin' yazılı bir not bulur. Bu sorudan hareketle, bütün bir felsefe tarihinde sorulmuş soruları ve cevapları, sürükleyici bir roman kurgusu içinde anlatan Jostein Gaarder, Umberto Eco'nun 'Gülün Adı'nda Ortaçağ teolojisini romanlaştırma gücünü bu kitabında felsefede gösteriyor.",
+          "buyURL": "https://www.kitapyurdu.com/kitap/sofienin-dunyasi-felsefe-tarihi-uzerine-bir-roman/5636.html"
+        },
+        {
+          "id": "7",
+          "imageURL": "images/philosophy/CürümeninKitabı.png",
+          "title": "Çürümenin Kitabı",
+          "author": "Emil Michel Cioran",
+          "publisher": "Metis Yayınları",
+          "description": "Nerede tükettin ömrünü? Bir hareketin hatırası, bir tutkunun işareti, bir maceranın parıltısı, güzel ve firari bir cinnet - geçmişinde bunların hiçbiri yok; hiçbir sayıklama senin ismini taşımıyor, seni hiçbir zaaf onurlandırmıyor. İz bırakmadan kayıp gittin; senin rüyan neydi peki?",
+          "buyURL": "https://www.kitapyurdu.com/kitap/curumenin-kitabi/44800.html"
+        },
+        {
+          "id": "8",
+          "imageURL": "images/philosophy/MutluYaşamUzerine.png",
+          "title": "Mutlu Yaşam Üzerine",
+          "author": "Seneca",
+          "publisher": "Türkiye İş Bankası Kültür Yayınları",
+          "description": "Mutlu Yaşam Üzerine ve Yaşamın Kısalığı Üzerine’de Seneca doğaya uyumlu yaşama mecburiyetini çeşitli açılardan ve yaşadığı dönemden örnekler vererek ele alır. İlham verici bu iki metin, Stoacılığın Roma döneminde nasıl bir yaşam anlayışını salık verdiğine dair soruların yanıtlarını da barındırır.",
+          "buyURL": "https://www.kitapyurdu.com/kitap/mutlu-yasam-uzerine-yasamin-kisaligi-uzerine-karton-kapak/485669.html"
+        },
+        {
+          "id": "9",
+          "imageURL": "images/philosophy/IslamınDirilişi.png",
+          "title": "İslamın Dirilişi",
+          "author": "Sezai Karakoç",
+          "publisher": "Diriliş Yayınları",
+          "description": " ",
+          "buyURL": "https://www.kitapyurdu.com/kitap/islamin-dirilisi/6514.html"
+        },
+        {
+          "id": "10 ",
+          "imageURL": "images/philosophy/YaşamınKısalığıUzerine.png",
+          "title": "Yaşamın Kısalığı Üzerine",
+          "author": "Seneca",
+          "publisher": "Kapra Yayıncılık",
+          "description": "“İyi şeyleri duyar duymaz onları benimseyen kimi yaradılışlar vardır; fakat yine de bunların tembih yoluyla ve ahlaki öğretiler vasıtasıyla teşvik edilmeye ihtiyaçları olacaktır,” diyor Seneca. Tam olarak da bunu yapıyor.",
+          "buyURL": "https://www.kitapyurdu.com/kitap/yasamin-kisaligi-uzerine-mutlu-yasam-uzerine/609908.html"
+        },
+        {
+          "id": "11",
+          "imageURL": "images/philosophy/KendimeDüşünceler.png",
+          "title": "Kendime Düşünceler",
+          "author": "Marcus Aurelius",
+          "publisher": "Türkiye İş Bankası Kültür Yayınları",
+          "description": "Kendime Düşünceler, Stoacılık özellikle de Roma Stoası açısından büyük bir öneme sahiptir.Sağlam bir eşitlik ve özgürlük inancına sahip olan Marcus Aurelius imparatorluğu boyunca doğayı bilip anlayarak yaşamaya çalışmış, her şeyin ortasına insanı koymuştur.",
+          "buyURL": "https://www.kitapyurdu.com/kitap/kendime-dusunceler-karton-kapak/457059.html"
+        },
+        {
+          "id": "12",
+          "imageURL": "images/philosophy/YitikCennet.png",
+          "title": "Yitik Cennet",
+          "author": "Sezai Karakoç",
+          "publisher": "Diriliş Yayınları",
+          "description": " ",
+          "buyURL": "https://www.kitapyurdu.com/kitap/yitik-cennet/6384.html"
+        },
+        {
+          "id": "13",
+          "imageURL": "images/philosophy/InsanlığınDirilişi.png",
+          "title": "İnsanlığın Dirilişi",
+          "author": "Sezai Karakoç",
+          "publisher": "Diriliş Yayınları",
+          "description": " ",
+          "buyURL": "https://www.kitapyurdu.com/kitap/insanligin-dirilisi/6385.html"
+        },
+        {
+          "id": "14",
+          "imageURL": "images/philosophy/Kozmos.png",
+          "title": "Kozmos",
+          "author": "Carll Sagan",
+          "publisher": "Altın Kitaplar",
+          "description": " ",
+          "buyURL": "https://www.kitapyurdu.com/kitap/kozmos-evrenin-ve-yasamin-sirlari/3295.html"
+        },
+        {
+          "id": "15",
+          "imageURL": "images/philosophy/OtekiniKovmak.png",
+          "title": "ÖtekiniKovmak",
+          "author": "Byung-Chul Han",
+          "publisher": "Ketebe Yayınevi",
+          "description": "Kendini seyrettiği gölün başından ayrılamayan Narcissus bugün her yerde ; sokakta, otobüste veya dağ başında, kendini cep telefonu ekranından seyrediyor. İlla seyretmesine de gerek yok. Baktığı her şey, alışveriş merkezindeki her ürün, dinlediği her şarkı, okuduğu her tweet hatta bir başkasının yüzü bile ona kendi muhteşemliğini, eşsizliğini, biricikliğini yansıtıyor bugün. Fakat bu olumlamanın zehirli bir tarafı da var : gizlenmiş bir iktidar mantığı, zorun sapkın bir içselleşmesi.",
+          "buyURL": "https://www.kitapyurdu.com/kitap/otekini-kovmak-gunumuzde-toplum-algi-ve-iletisim/648830.html"
+        },
+        {
+          "id": "16",
+          "imageURL": "images/philosophy/TotemveTabu.png",
+          "title": "Totem ve Tabu",
+          "author": "Sigmund Freud",
+          "publisher": "Dorlion Yayınları",
+          "description": "Nedenini bilmemekle birlikte yasak olan edimi gerçekleştiren ve böylece tabuya karşı gelen kimselerin de tabu olduğunu bilmekteyiz. Fakat tabunun yalnızca yasak olan edimi gerçekleştiren kişiye karşı değil de kuraldışı durumlarda bulunan kimselere bu kuraldışı durumlara ve kişisel olmayan eşyâya karşı da uygulanmasıyla bunu nasıl birleştirmeli?",
+          "buyURL": "https://www.kitapyurdu.com/kitap/totem-ve-tabu/546962.html"
+        },
+        {
+          "id": "17",
+          "imageURL": "images/philosophy/CehennemeOvgü.png",
+          "title": "Cehenneme Övgü",
+          "author": "Gündüz Vassaf",
+          "publisher": "İletişim Yayınları",
+          "description": " ",
+          "buyURL": "https://www.kitapyurdu.com/kitap/cehenneme-ovgu-gundelik-hayatta-totalitarizm/18063.html"
+        },
+        {
+          "id": "18",
+          "imageURL": "images/philosophy/OfkeUzerine.png",
+          "title": "Öfke Üzerine",
+          "author": "Seneca",
+          "publisher": "Biblos Kitabevi Yayınları",
+          "description": "Öfkeyi geçici bir delilik olarak tanımlayan Seneca, tarih boyunca onun yol açtığı en korkunç felaketlerden örnekler vererek bize bu duygu patlamasının yıkıcılığını anlatır. Öfkeyi yararlı gören filozoflara, bu arada Aristoteles’e de karşı çıkarak ondan tam olarak kurtulmayı öğütler. Öfkenin farklı kişilikler üzerindeki etkilerine yer veren filozof bu yıkıcı duygudan kurtulma yollarını da ayrıntılı olarak anlatır.",
+          "buyURL": "https://www.kitapyurdu.com/kitap/ofke-uzerine/544394.html"
+        },
+        {
+          "id": "19",
+          "imageURL": "images/philosophy/YürümeninFelsefesi.png",
+          "title": "Yürümenin Felsefesi",
+          "author": "Frederic Gros",
+          "publisher": "Kolektif Kitap",
+          "description": "Yürümek iki mesafe arasında gidip gelmek değil yaratıcı bir eylemdir. Hem kendi yalnızlığımıza çekildiğimiz hem de toplum olarak bizi dönüştürecek bir ayağa kalkıştır. İki büklüm vücudun karşısında dikilmeye çalışan, attığı her adımda yeryüzünün gerçek bir parçası olduğunu fark eden Homo Viator’un eylemidir.",
+          "buyURL": "https://www.kitapyurdu.com/kitap/yurumenin-felsefesi/415173.html"
+        },
+        {
+          "id": "20",
+          "imageURL": "images/philosophy/FelsefeYapmaSanatı.png",
+          "title": "Felsefe Yapma Sanatı",
+          "author": "Bertrand Russell",
+          "publisher": "Profil Kitap",
+          "description": " ",
+          "buyURL": "https://www.kitapyurdu.com/kitap/felsefe-yapma-sanati/548174.html"
+        }
+  ]
+}

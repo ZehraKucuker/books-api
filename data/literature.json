@@ -1,0 +1,184 @@
+{
+  "data" :[
+    {
+      "id": "1",
+      "imageURL": "images/literature/AşkHikayesi.png",
+      "title": "Aşk Hikayesi",
+      "author": "Prof. Dr. İskender Pala",
+      "publisher": "Kapı Yayınları",
+      "description": "10 Haziran 1617 sabahı Kulaksız Kabristanı’nda hatun kişi mezarı üzerinde, biri hanım üç ceset bulundu. Erkekler mezara kapaklanmış, kadın da erkeklerden birine sarılmış vaziyetteydi. Devrin ases teşkilatı aylar sonra üçünün de aynı vakitte öldüğünü açıkladı; aşk yüzünden…",
+      "buyURL": "https://www.kitapyurdu.com/kitap/ask-hikayesi/662242.html"
+    },
+    {
+      "id": "2",
+      "imageURL": "images/literature/GeceYarısıKütüphanesi.png",
+      "title": "Gece Yarısı Kütüphanesi",
+      "author": "Matt Haig",
+      "publisher": "Domingo Kitabevi",
+      "description": "Nora Seed berbat halde. Kedisi öldü. İşinden kovuldu. Abisi onunla konuşmuyor. Kimsenin ona ihtiyacı yok. Art arda alınmış kötü kararların sonucunda bir kütüphanede buluyor kendini. Zamanın hiç akmadığı bir gece yarısı kütüphanesinde, sonsuz sayıda kitabın ortasında...",
+      "buyURL": "https://www.kitapyurdu.com/kitap/gece-yarisi-kutuphanesi/582550.html"
+    },
+    {
+      "id": "3",
+      "imageURL": "images/literature/HerkesOnuAnlatıyorAilesi.png",
+      "title": "Herkes Onu Anlatıyor 1 / Ailesi",
+      "author": "Hatice Kübra Tongar",
+      "publisher": "Aile Yayınları",
+      "description": "Gözlerinizi kapatın ve zamanın, çölde savrulan kum taneleri gibi geriye akmasına izin verin. Tarih bin beş yüz yıl önceye gitsin, takvim Asr-ı Saadet’i göstersin, gözlerimiz Hane-i Saadet’e çevrilsin. Güzel Peygamberimizin hatıraları, ailesinin dilinden yüreğimize değsin.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/herkes-onu-anlatiyor-1-ailesi/659177.html"
+    },
+    {
+      "id": "4",
+      "imageURL": "images/literature/InceMemed1.png",
+      "title": "İnce Memed 1",
+      "author": "Yaşar Kemal",
+      "publisher": "Yapı Kredi Yayınları",
+      "description": "Otuz iki yıllık bir zaman diliminde yazılan İnce Memed dörtlüsü, düzene başkaldıran Memed'in ve insan ilişkileri, doğası ve renkleriyle Çukurova'nın öyküsüdür. Yaşar Kemal'in söyleyişiyle 'içinde başkaldırma kurduyla doğmuş' bir insanın, 'mecbur adam'ın romanı.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/ince-memed-1/57300.html"
+    },
+    {
+      "id": "5",
+      "imageURL": "images/literature/InsanlığımıYitirirken.png",
+      "title": "İnsanlığımı Yitirirken",
+      "author": "Osamu Dazai",
+      "publisher": "Kapra Yayıncılık",
+      "description": "Dazai’nin kendi hayatından parçalar üzerine temellendirdiği yarı otobiyografik İnsanlığımı Yitirirken, aynı zamanda son eseriydi. Yazarın gerçek ile kurguyu özenle işleyerek harmanladığı bu karanlık roman, bütün hayatını tarifsiz bir yalnızlık ve psikolojik kopuş içinde geçiren Yōzō’nun iniş çıkışlı hikâyesini ardında bıraktığı günlükleri aracılığıyla aktarıyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/insanligimi-yitirirken/665638.html"
+    },
+    {
+      "id": "6",
+      "imageURL": "images/literature/IradeTerbiyesi.png",
+      "title": "İrade Terbiyesi",
+      "author": "Dr. Ethem Bakar",
+      "publisher": "Ketebe Yayınevi",
+      "description": "İrade Terbiyesi’nde Dr. Ethem, iradenin temel kavramlarından derin tefekkürün gücüne, duyguların etkisinden sağlam alışkanlıkların kazanılmasına kadar geniş bir yelpazede iradenin nasıl terbiye edileceği meselesini ele alıyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/irade-terbiyesi/655797.html"
+    },
+    {
+      "id": "7",
+      "imageURL": "images/literature/KaplanınSırtında.png",
+      "title": "Kaplanın Sırtında",
+      "author": "Zülfü Livaneli",
+      "publisher": "İnkılap Yayınevi",
+      "description": "Türk edebiyatının kuşak bağı Zülfü Livaneli, II. Abdülhamid’in tahtını kaybettikten sonra yaşadıklarına odaklanırken, okuru dönemin atmosferine ve düşünce yapısına yaklaştıran bir dil lezzetini, akıcı üslubuyla harmanlıyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/kaplanin-sirtinda-/637501.html"
+    },
+    {
+      "id": "8",
+      "imageURL": "images/literature/KayıpAğaçlarAdası.png",
+      "title": "Kayıp Ağaçlar Adası",
+      "author": "Elif Shafak",
+      "publisher": "Doğan Kitap",
+      "description": "Günümüz Londra’sında yaşayan on altı yaşındaki Ada Kazancakis’in ailesine ve geçmişine dair cevapsız kalmış pek çok sorusu vardır, bir gün verilen tarih ödevi onu hiç bilmediği bir dünyaya sürükler; 1970’lere… dünyanın tel örgülerle bölünmüş tek başkenti Lefkoşa’ya.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/kayip-agaclar-adasi/654175.html"
+    },
+    {
+      "id": "9",
+      "imageURL": "images/literature/Körlük.png",
+      "title": "Körlük",
+      "author": "Jose Saramago",
+      "publisher": "Kırmızı Kedi Yayınevi",
+      "description": "Usta yazarın belki de en etkileyici yapıtı olan, sinemaya da uyarlanmış Körlük, toplumsal yaşamın nasıl bir vahşete dönüşebileceğini müthiş bir incelikle gözler önüne sererken, insana dair son umut kırıntısını da bir kadının tek başına örgütlediği dayanışma ve direniş örneğiyle sergileyen unutulmaz eserler arasında yerini almıştır.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/korluk/648531.html"
+    },
+    {
+      "id": "10",
+      "imageURL": "images/literature/KüçükPrens.png",
+      "title": "Küçük Prens",
+      "author": "Antoine de Saint-Exupéry",
+      "publisher": "Kapra Yayıncılık",
+      "description": "“Ne esrarengiz bir olay. Evrende bir yerlerde, daha önce hiç görmediğimiz bir koyunun gülü yiyip yemediği, Küçük Prens’i çok seven bizler için ne kadar da önemli. Gökyüzüne bakın ve kendi kendinize şu soruyu sorun: ‘Koyun çiçeği yedi mi yemedi mi?’ Her şey nasıl da değişiyor göreceksiniz. Hiçbir yetişkin, bunun ne denli önemli olduğunu anlayamayacaktır!”",
+      "buyURL": "https://www.kitapyurdu.com/kitap/kucuk-prens/569234.html"
+    },
+    {
+      "id": "11",
+      "imageURL": "images/literature/Momo.png",
+      "title": "Momo",
+      "author": "Michael Ende",
+      "publisher": "Pegasus Yayınları",
+      "description": "Momo, büyük bir kentin tiyatro harabelerinde yaşayan küçük bir kızdır. Buldukları ya da kendisine hediye edilenler dışında hiçbir şeyi yoktur. Ancak olağanüstü bir yeteneği vardır: Momo, muhteşem bir dinleyicidir ve bunun için oldukça bol zamanı vardır. Bir gün hayaletimsi topluluk “duman adamlar” ortaya çıkar. İnce hesaplı planlar kurup insanların zamanını çalarlar. Onları durduracak tek kişiyse Momo’dur.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/momo/434330.html"
+    },
+    {
+      "id": "12",
+      "imageURL": "images/literature/NietzscheAğladığında.png",
+      "title": "Nietzsche Ağladığında",
+      "author": "Irvin D. Yalom",
+      "publisher": "Ayrıntı Yayınları",
+      "description": "Henüz iki kitabı yayımlanmış, kimsenin tanımadığı ve son derece yoksul bir filozof olan Friedrich Nietzsche’nin yolu, bir gün henüz gençliğinin baharındayken pek çok sanatçının ve düşünürün doktoru olmayı başarmış, zengin ve saygın bir karakter olan Josef Breuer’le kesişir",
+      "buyURL": "https://www.kitapyurdu.com/kitap/nietzsche-agladiginda/9632.html"
+    },
+    {
+      "id": "13",
+      "imageURL": "images/literature/SaatleriAyarlamaEnstitüsü.png",
+      "title": "Saatleri Ayarlama Enstitüsü",
+      "author": "Ahmet Hamdi Tanpınar",
+      "publisher": "Dergah Yayınları",
+      "description": "Saatleri Ayarlama Enstitüsü toplumumuzun değişme süreci içindeki durumunu, fertten yola çıkarak topluma varan teknikle anlatıyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/saatleri-ayarlama-enstitusu/4780.html"
+    },
+    {
+      "id": "14",
+      "imageURL": "images/literature/SekerPortakalı.png",
+      "title": "Şeker Portakalı",
+      "author": "Jose Mauro de Vasconcelos",
+      "publisher": "Can Yayınları",
+      "description": "Yetişkinler dünyasının sınırlamalarına hayal gücüyle meydan okuyan Zezé’nin yoksulluk, acı ve ümit dolu hikâyesi yazarın çocukluğundan derin izler taşır. Beş yaşındaki Zezé hemen her şeyi tek başına öğrenir: sadece bilye oynamayı ve arabalara asılmayı değil, okumayı ve sokak şarkıcılarının ezgilerini de. En yakın sırdaşıysa, anlattıklarına kulak veren ve Minguinho adını verdiği bir şeker portakalı fidanıdır…",
+      "buyURL": "https://www.kitapyurdu.com/kitap/seker-portakali-ciltsiz/10139.html"
+    },
+    {
+      "id": "15",
+      "imageURL": "images/literature/SeninCahilliğinBenimYaşamımıEtkiliyor.png",
+      "title": "Senin Cahilliğin Benim Yaşamımı Etkiliyor",
+      "author": "A. M. Celal Şengör",
+      "publisher": "Masa Kitap",
+      "description": " ",
+      "buyURL": "https://www.kitapyurdu.com/kitap/senin-cahilligin-benim-yasamimi-etkiliyor/654077.html"
+    },
+    {
+      "id": "16",
+      "imageURL": "images/literature/Simyacı.png",
+      "title": "Simyacı",
+      "author": "Paulo Coelho",
+      "publisher": "Can Yayınları",
+      "description": "Simyacı, İspanya'dan kalkıp Mısır Piramitlerinin eteklerinde hazinesini aramaya giden Endülüslü çoban Santiago'nun masalsı yaşamının felsefi öyküsü. Sanki bir `nasihatnâme': `Yazgına nasıl egemen olacaksın, mutluluğunu nasıl kuracaksın?' sorularına yanıt arayan bir hayat ve ahlak kılavuzu.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/simyaci-ciltsiz/27328.html"
+    },
+    {
+      "id": "17",
+      "imageURL": "images/literature/SöylemeBilmesinler.png",
+      "title": "Söyleme Bilmesinler",
+      "author": "Şermin Yaşar",
+      "publisher": "Doğan Kitap",
+      "description": "“Herkesin hikâyesini dinledin. Haydi, şimdi sen anlat: Aslında ne oldu, nasıl oldu?” diyor adeta. Karakterleri konuştukça çözülen bir sırlar yumağı, Söyleme Bilmesinler. Yumak çözüldükçe iplerin uçları nerelerden çıkmıyor ki…",
+      "buyURL": "https://www.kitapyurdu.com/kitap/soyleme-bilmesinler/668247.html"
+    },
+    {
+      "id": "18",
+      "imageURL": "images/literature/VeronikaOlmekIstiyor.png",
+      "title": "Veronika Ölmek İstiyor",
+      "author": "Paulo Coelho",
+      "publisher": "Can Yayınları",
+      "description": "Veronika, her istediğine sahip görünen, renkli bir yaşam süren, yakışıklı erkeklerle gezip tozan genç bir kadın olmasına karşın, mutlu değildir. Yaşamında bir şeylerin eksikliğini hissetmektedir. Başarısız bir intihar girişiminin ardından, kendine geldiği zaman bir akıl hastanesindedir. Üstelik çok kısa bir ömrü kaldığını öğrenir. Zaten ölmek isteyen Veronika bu süreçte, başka dünyaların insanlarını tanırken kendisini de keşfetmeye başlar…",
+      "buyURL": "https://www.kitapyurdu.com/kitap/veronika-olmek-istiyor/18703.html"
+    },
+    {
+      "id": "19",
+      "imageURL": "images/literature/Yaşamak.png",
+      "title": "Yaşamak",
+      "author": "Yu Hua",
+      "publisher": "Jaguar Kitap",
+      "description": "Aile servetini yiyip tükettiği gençlik günlerinde, uzun bir hayatın ona neler sunacağından habersizdir elbette Fugui. Yıllar sonra, yaşlı öküzüyle tarlasını sürerken tanıştığı bir yabancıya hayatından söz etmeye başladığında, şımarık bir gencin başına gelenlerden fazlasını sayıp dökecektir.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/yasamak/393974.html"
+    },
+    {
+      "id": "20",
+      "imageURL": "images/literature/Zeytindağı.png",
+      "title": "Zeytindağı",
+      "author": "Falih Rıfkı Atay",
+      "publisher": "Pozitif Yayınları",
+      "description": "Zeytindağı, insanın kanını donduran tarihi bir süreci, “bir imparatorluğun çöküşünü” o zamana göre en duru Türkçe ile karşımıza getiriyor. Kitapta Mehmetçik’in Yemen’de, Aden’de, Kanal’da, Gazze’de, Arap çöllerinde nasıl kırıldığını, yenilgiden sonra bir vagon dolusu “mecidiye altınını” bile nasıl bıraktığımızı hayretler içerisinde okuyacaksınız.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/zeytindagi/62886.html"
+    }
+  ]    
+}

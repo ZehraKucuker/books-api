@@ -1,0 +1,184 @@
+{
+  "data" :[
+    {
+      "id": "1",
+      "imageURL": "images/culture/AntikKentler.png",
+      "title": "Antik Kentler",
+      "author": "Charles Gates",
+      "publisher": "Koç Üniversitesi Yayınları",
+      "description": "Antik Kentler’de antik Yakındoğu, Mısır, Yunan ve Roma’nın kent ve medeniyetleri arkeolojik bakışla sunuluyor. Odak noktası kentsel merkezler olan kitapta mimari ve diğer maddi kalıntılar, tarihsel ve sosyoekonomik bağlamlar, buralarda yaşamış insanların deneyimleri ele alınıyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/antik-kentler-antik-yakindogu-misir-yunan-ve-romada-kentsel-yasamin-arkeolojisi/376489.html"
+    },
+    {
+      "id": "2",
+      "imageURL": "images/culture/BeşSehir.png",
+      "title": "Beş Şehir",
+      "author": "Ahmet Hamdi Tanpınar",
+      "publisher": "Dergah Yayınları",
+      "description": "Beş Şehir'in asıl konusu hayatımızda kaybolan şeylerin ardından duyulan üzüntü ile yeniye karşı beslenen iştiyaktır. İlk bakışta birbiriyle çatışır görünen bu iki duyguyu sevgi kelimesinde birleştirebiliriz. Bu sevginin kendisine çerçeve olarak seçtiği şehirler, benim hayatımın tesadüfleridir.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/bes-sehir/4787.html"
+    },
+    {
+      "id": "3",
+      "imageURL": "images/culture/BeyindeArarkenBağırsağımdaBuldum.png",
+      "title": "Beyinde Ararken Bağırsağımda Buldum",
+      "author": "Serkan Karaismailoğlu",
+      "publisher": "Elma Yayınevi",
+      "description": " ",
+      "buyURL": "https://www.kitapyurdu.com/kitap/beyinde-ararken-bagirsakta-buldum/429641.html"
+    },
+    {
+      "id": "4",
+      "imageURL": "images/culture/BirDüşünüşünDoğalTarihi.png",
+      "title": "İnsan Düşünüşünün Doğal Tarihi",
+      "author": "Micheal Tomasello",
+      "publisher": "Yapı Kredi Yayınları",
+      "description": " ",
+      "buyURL": "https://www.kitapyurdu.com/kitap/insan-dusunusunun-dogal-tarihi/680740.html"
+    },
+    {
+      "id": "5",
+      "imageURL": "images/culture/BuUlke.png",
+      "title": "Bu Ülke",
+      "author": "Cemil Meriç",
+      "publisher": "İletişim Yayınları",
+      "description": "Bu Ülke, Meriç’in sürekli etrafında dolandığı Doğu-Batı sorunu yanında, sol-sağ kutuplaşmasına ve kalıplaşmasına ilişkin önemli tesbit ve aforizmalarını da içeriyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/bu-ulke/18263.html"
+    },
+    {
+      "id": "6",
+      "imageURL": "images/culture/Cöküş.png",
+      "title": "Çöküş",
+      "author": "Jared Diamond",
+      "publisher": "Pegasus Yayınları",
+      "description": "Geçmişin büyük uygarlıklarından bazılarının yıkılmasına neden olan şey neydi? Yıkılan bu kadim uygarlıkların kaderlerinden neler öğrenebiliriz? Çevreye verilen zarar, iklim değişikliği, küreselleşme, hızlı nüfus artışı ve politik çatışmalar, dünyanın dört bir yanındaki toplumların yok olmasına neden olan faktörlerdi ancak bu toplumlardan bazıları kendi çözümlerini yarattı.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/cokus-toplumlar-basarisizligi-ya-da-basariyi-nasil-secerler-karton-kapak-/501445.html"
+    },
+    {
+      "id": "7",
+      "imageURL": "images/culture/DüşünveZenginOl.png",
+      "title": "Düşün ve Zengin Ol",
+      "author": "Napoleon Hill",
+      "publisher": "Altın Kitaplar",
+      "description": "Yüzyıllardır aktarılan bir sır düşünün. Sadece en zenginlerin, en güçlülerin birbirlerine aktardığı bir sır. Tüm hayallere sahip olmanın yöntemini anlatan gerçek bir sır. Napoleon Hill 1900’lerin başında tanıştığı bu sırrı 25 yıl boyunca araştırdıktan sonra, sırrı çalıştıran, on üç adımdan oluşan bir formül çıkarmıştır.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/dusun-ve-zengin-ol/19356.html"
+    },
+    {
+      "id": "8",
+      "imageURL": "images/culture/Entelektüel.png",
+      "title": "Entelektüel",
+      "author": "Edward W. Said",
+      "publisher": "Ayrıntı Yayınları",
+      "description": "Düşünceyle arası zaten hiçbir zaman hoş olmamış bu topraklarda, düşünceyi ve onu cisimleştiren entelektüeli “terörize ederek etkisizleş-tirmeyi amaçlayan”, doğrudan doğruya “vatan hainliği” ile damga-layacak kadar pervasızlaşan bir zihniyet iyice egemenliğini kurmuş durumda. Milliyetçi ve dinsel fanatizm kendisinden başkasına düşüncesini ifade bir yana, yaşama hakkı bile tanımıyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/entelektuel-surgun-marjinal-yabanci/9685.html"
+    },
+    {
+      "id": "9",
+      "imageURL": "images/culture/FincanımdaColaVar.png",
+      "title": "Fincanımda Cola Var",
+      "author": "Sadettin Ökten",
+      "publisher": "Tuti Kitap",
+      "description": " ",
+      "buyURL": "https://www.kitapyurdu.com/kitap/fincanimda-cola-var/339055.html"
+    },
+    {
+      "id": "10",
+      "imageURL": "images/culture/GelenekSanatveMedeniyet.png",
+      "title": "Gelenek Sanat ve Medeniyet",
+      "author": "Sadettin Ökten",
+      "publisher": "Sufi Kitap Yayınları",
+      "description": "Toplum, sanatıyla kendini ifade eder; hem halde var olmanın hem istikbalde devam etmenin yolu sanattan da geçer. Gelenek, Sanat ve Medeniyet, zamanı, mekânı, hayatı ve insanı kendi medeniyet dairesinde anlamlandırmaktan uzaklaşan günümüz insanını, vahiy medeniyeti ile Batı medeniyetini doğru yorumlayıp içinde yaşadığı toplumun ihtiyacı olan sanatı üretmeye davet ediyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/gelenek-sanat-ve-medeniyet/362635.html"
+    },
+    {
+      "id": "11",
+      "imageURL": "images/culture/IlberOrtaylıSeyahatnamesi.png",
+      "title": "İlber Ortaylı Seyahatnamesi",
+      "author": "Prof. Dr. İlber Ortaylı",
+      "publisher": "Kronik Kitap",
+      "description": "Çok gezen mi daha iyi bilir, yoksa çok okuyan mı? Peki ya bir yandan okurken diğer yandan da gezme imkânı bulanlar? İlber Ortaylı’ya eşlik etmek isterseniz bu kitap tam size göre…",
+      "buyURL": "https://www.kitapyurdu.com/kitap/ilber-ortayli-seyahatnamesi-kartpostal-hediyeli/413226.html"
+    },
+    {
+      "id": "12",
+      "imageURL": "images/culture/IşıkDoğudanGelir.png",
+      "title": "Işık Doğudan Gelir",
+      "author": "Cemil Meriç",
+      "publisher": "İletişim Yayınları",
+      "description": " ",
+      "buyURL": "https://www.kitapyurdu.com/kitap/isik-dogudan-gelir/119922.html"
+    },
+    {
+      "id": "13",
+      "imageURL": "images/culture/KültürOrüntüleri.png",
+      "title": "Kültür Örüntüleri",
+      "author": "Ruth Benedict",
+      "publisher": "İletişim Yayınları",
+      "description": "Kültür Örüntüleri, insan hayatının şekillenmesinde kültürün rolüne dair çarpıcı bir bakış sunuyor. Üç Kızılderili toplumunun karşılaştırıldığı bu çalışma, toplumların davranışlarındaki çeşitlilikleri yargılamadan ortaya koyuyor. Dolayısıyla Batı toplumunun “en iyi, en gelişmiş” kültür olduğu yönündeki görüşü reddederek, her kültürün kendisini nasıl ele alıyorsa öyle kavranması gerektiğini öne sürüyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/kultur-oruntuleri/263680.html"
+    },
+    {
+      "id": "14",
+      "imageURL": "images/culture/Mağaradakiler.png",
+      "title": "Mağaradakiler",
+      "author": "Cemil Meriç",
+      "publisher": "İletişim Yayınları",
+      "description": "Aydın mı dersiniz, entelektüel mi dersiniz? İki kavrama farklı anlamlar mı yüklersiniz? Aydınlardan entellektüellerden çok şeyler mi beklersiniz, hiçbir şey beklemez misiniz? Öyle ya da böyle, kültürle derinlemesine alışveriş kaygınız arsa zaman eksenine düşünce mesaisi düşünebiliyorsanız bu kavramlar üzerine kafa yorarsanız bu sorulara cevap ararsınız ufuk ararsınız.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/magaradakiler/2562.html"
+    },
+    {
+      "id": "15",
+      "imageURL": "images/culture/OkumakNedir.png",
+      "title": "Okumak Nedir",
+      "author": "Yusuf Kaplan",
+      "publisher": "Nesil Yayınları",
+      "description": "Kitap, yalnızca iki kapak arası yazılanlardan ibaret değildir. Kitap; hayatı, dünyayı, mânâyı, Yaratıcı’yı, yaratılanları, varlığı, varoluşu ve elbette kendimizi ve hakikati anlamamızı sağlayabilecek kaynak ve mecraların bütünüdür.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/okumak-nedir/663010.html"
+    },
+    {
+      "id": "16",
+      "imageURL": "images/culture/OtekilerinArkeolojisi.png",
+      "title": "Ötekilerin Arkeolojisi",
+      "author": "Prof. Dr. İsmail Sezgin",
+      "publisher": "Pinhan Yayıncılık",
+      "description": "Antikçağ dünyasından geriye görkemli yerleşimler, anıtlar, heykeller, yaşamın izlerini taşıyan eserler, anlatılar kaldı. Bu kalıntılara uygarlığın penceresinden bakanlar, mutlu bir topluluğun zevk içindeki ayrıcalıklı yaşam kesitlerini görür. Mermer sütunlarla desteklenen antik kentler, müzeleri dolduran estetik heykeller, anıtsal mezarlar, lahitler, dev surlar iktidarın sahip olduğu güce, çağın estetiğine ve teknolojideki mucizeye dikkat çekerler.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/otekilerin-arkeolojisi-uygarligin-gormedigi-insanlarin-oykusu/676071.html"
+    },
+    {
+      "id": "17",
+      "imageURL": "images/culture/Patasana.png",
+      "title": "Patasana",
+      "author": "Ahmet Ümit",
+      "publisher": "Yapı Kredi Yayınları",
+      "description": "Fırat kıyısında kazı yapan arkeologlar Hititler döneminden kalma bazı tabletler bulur. Saray yazmanı Patasana’nın yaklaşık üç bin yıl önce yazdığı bu tabletler Anadolu medeniyetleri üzerine önemli sırların açığa çıkmasını sağlayacaktır.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/patasana/518980.html"
+    },
+    {
+      "id": "18",
+      "imageURL": "images/culture/Türkiye'ninMaarifDavası.png",
+      "title": "Türkiye'nin Maarif Davası",
+      "author": "Nurettin Topçu",
+      "publisher": "Dergah Yayınları",
+      "description": "Hakikat aşkına sahip insanlar, cemiyetin içinde çoğalmadıkça, hakikat aşkı cemiyet içinde en yüksek ve muhterem yeri tutmadıkça ve hakikatin ihtirası cemaat içerisinde bir umumi cereyan, büyük bir hareket haline gelmedikçe, milli mektep gerçekten var olmayacaktır.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/turkiyenin-maarif-davasi/4879.html"
+    },
+    {
+      "id": "19",
+      "imageURL": "images/culture/TürkTöresi.png",
+      "title": "Türk Töresi",
+      "author": "Ziya Gökalp",
+      "publisher": "Karbon Kitaplar",
+      "description": "Türk kültürünün tarihini yazma düşüncesiyle yola çıkan Ziya Gökalp, Türk dini ve siyasi tarihinin adeta el değmemiş bilgilerini gün yüzüne çıkarır Türk Töresi'nde. Tarih felsefesi ve sosyolojisi alanında ülkemizde ilk çalışmaları yapan Gökalp, en eski Türk efsanelerini ve menkıbelerini toplu bir şekilde okuyucusuna sunar.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/turk-toresi-cep-boy-tam-metin/506046.html"
+    },
+    {
+      "id": "20",
+      "imageURL": "images/culture/UmudunPedagojisi.png",
+      "title": "Umudun Pedagojisi",
+      "author": "Paulo Freire",
+      "publisher": "Yordam Kitap",
+      "description": "Avukatlık mesleğini bırakıp bir eğitimci olmaya karar vermesiyle başlayan ve Brezilya’nın içinden geçtiği politik çalkantılarla birlikte Şili ve İsviçre gibi ülkelerde bir göçmen olarak devam eden mesleki yaşamını keskin gözlem gücü ve canlı anekdotlarla okurla buluşturan Freire, Umudun Pedagojisi’nde bizi ‘‘halk eğitimi’’ mücadelesinin yirminci yüzyıldaki parlak başarılar ve acı yenilgilerle dolu tarihine götürüyor.",
+      "buyURL": "https://www.kitapyurdu.com/kitap/umudun-pedagojisi-ezilenlerin-pedagojisini-yeniden-yasamak/598428.html"
+    }
+  ]    
+}

@@ -6,7 +6,7 @@ const router = express.Router();
 router.use(cors());
 
 router.get("/", async (req,res) => {
-    r.db("books").table("literature").then((book) => {
+    r.db("test").table("literature").then((book) => {
         res.statusCode = 200;
         res.send({
             message: "Data extraction successful",
