@@ -42,10 +42,8 @@ createTables("philosophy");
 createTables("culture");
 createTables("psychology");
 createTables("history");
-
 // Table boşsa data ekleme işlemi ->
 const inData = async (tableName, e) => {
-    console.log("asdasd");
     const newData = e.data;
     r.db(dbName).table(tableName).insert(newData).run();
 }

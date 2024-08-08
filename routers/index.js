@@ -1,16 +1,11 @@
 const express = require('express');
-const literature = require("./literature");
-const philosophy = require("./philosophy");
-const culture = require("./culture");
-const psychology = require("./psychology");
-const history = require("./history");
+const {getBooks} = require("./categories");
 
 const router = express.Router();
 
-router.use('/literature', literature);
-router.use('/philosophy', philosophy);
-router.use('/culture', culture);
-router.use('/psychology', psychology);
-router.use('/history', history);
-
+router.get('/literature', (req, res) => getBooks('literature')(req, res));
+router.get('/philosophy', (req, res) => getBooks('philosophy')(req, res));
+router.get('/culture', (req, res) => getBooks('culture')(req, res));
+router.get('/psychology', (req, res) => getBooks('psychology')(req, res));
+router.get('/history', (req, res) => getBooks('history')(req, res));
 module.exports = router;
